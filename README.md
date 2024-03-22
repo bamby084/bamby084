@@ -19,8 +19,8 @@ I'm Viet Nguyen, a seasoned full stack developer and a freelancer from Vietnam. 
 ### BackEnd
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20MVC-F7DF1E?style=for-the-badge)
-![WEB API](https://img.shields.io/badge/WEB%20API-3498DB?style=for-the-badge)
 ![WCF](https://img.shields.io/badge/WCF-8A2BE2?style=for-the-badge)
+![WEB API](https://img.shields.io/badge/WEB%20API-3498DB?style=for-the-badge)
 ![Blazor](https://img.shields.io/badge/ASP.NET%20Core%20Blazor-9160C9?style=for-the-badge)
 
 ### Databases
@@ -38,6 +38,7 @@ I'm Viet Nguyen, a seasoned full stack developer and a freelancer from Vietnam. 
 ### Desktop
 ![WPF](https://img.shields.io/badge/WPF-2F84B8?style=for-the-badge)
 ![WinForm](https://img.shields.io/badge/WinForm-959C45?style=for-the-badge)
+![VSTO](https://img.shields.io/badge/Microsoft%20Office%20VSTO-289C43?style=for-the-badge)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extensions-9860A3?style=for-the-badge)
 
-### Plugin
 
