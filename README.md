@@ -5,11 +5,11 @@ I'm Viet Nguyen, a seasoned full stack developer and a freelancer from Vietnam. 
 
 ### :muscle: My skills
 
-- **FrontEnd:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap, Tailwind\
-- **BackEnd:** C#, ASP.NET MVC, WEB API, WCF, Micro services\
-- **Database:** MS SQL, MySQL, SQLite, Postgres, MongoDB\
-- **Desktop:** WPF, WinForm, VSTO\
-- **Cloud:** Azure\
+- **FrontEnd:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap, Tailwind
+- **BackEnd:** C#, ASP.NET MVC, WEB API, WCF, Micro services
+- **Database:** MS SQL, MySQL, SQLite, Postgres, MongoDB
+- **Desktop:** WPF, WinForm, VSTO
+- **Cloud:** Azure
 - **Mobile:** Xamarin, .NET MAUI
 <!--
 ### FrontEnd
