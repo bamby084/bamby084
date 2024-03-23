@@ -5,6 +5,13 @@ I'm Viet Nguyen, a seasoned full stack developer and a freelancer from Vietnam. 
 
 <h1>My skills</h1>
 
+**FrontEnd:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap, Tailwind\
+**BackEnd:** C#, ASP.NET MVC, WEB API, WCF, Micro services\
+**Database:** MS SQL, MySQL, SQLite, Postgres, MongoDB\
+**Desktop:** WPF, WinForm, VSTO\
+**Cloud:** Azure\
+**Mobile:** Xamarin, .NET MAUI
+<!--
 ### FrontEnd
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,5 +47,5 @@ I'm Viet Nguyen, a seasoned full stack developer and a freelancer from Vietnam. 
 ![WinForm](https://img.shields.io/badge/WinForm-959C45?style=for-the-badge)
 ![VSTO](https://img.shields.io/badge/Microsoft%20Office%20VSTO-289C43?style=for-the-badge)
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extensions-9860A3?style=for-the-badge)
-
+-->
 
